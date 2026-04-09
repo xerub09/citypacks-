@@ -1,0 +1,206 @@
+{
+  "type": "FeatureCollection",
+  "x-cityconquest-note": "Top ~20 Bucharest sights (bundled as .json for Metro). Copy into pack as curated-pois.geojson if needed. kind values must match lib/poiMakiMapping.ts.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-parliament",
+        "name": "Palace of the Parliament (Palatul Parlamentului)",
+        "kind": "attraction",
+        "description": "Planned under Nicolae Ceaușescu as the House of the Republic (People’s House), this colossus on Dealul Spirii became the seat of Romania’s Parliament after the 1989 revolution. It is among the world’s largest civilian administrative buildings by floor area and is famously one of the heaviest, embodying late-socialist gigantism in marble, wood, and endless corridors. The project displaced historic neighborhoods and remains politically charged, yet it is also where democratic Romania convenes today. Guided tours show ceremonial halls and help visitors grasp both the human cost of the 1980s and how Bucharest repurposed a controversial landmark. It visually anchors the city’s civic axis and connects to contemporary art (MNAC) in the same complex."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0858, 44.4232] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-old-town",
+        "name": "Old Town (Lipscani / Centrul Vechi)",
+        "kind": "historic",
+        "description": "Lipscani was Wallachia’s leading commercial quarter from the Middle Ages into the nineteenth century, named for traders from Leipzig (Lipsca). The maze of streets sits beside the Princely Court of Vlad III (Dracula), a reminder that medieval Bucharest grew as a market town on the Dâmbovița. Much later the area evoked French-inspired Belle Époque elegance—hence Bucharest’s “Little Paris” nickname. Decades of neglect under communism gave way to vigorous restoration and nightlife, capped by pedestrianization that draws weekend crowds. Today courtyards mix cafés, clubs, bookstores, and churches, making the Old Town the city’s most walkable introduction to layered history: boyar Bucharest, modernization, socialist decline, and post-1989 rebirth."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.102, 44.4308] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-athenaeum",
+        "name": "Romanian Athenaeum (Ateneul Român)",
+        "kind": "attraction",
+        "description": "Opened in 1888 from French architect Albert Galleron’s design, the Romanian Athenaeum is Bucharest’s paramount concert hall: domed, neoclassical, and intimate despite its civic grandeur. It is home to the George Enescu Philharmonic and the prestigious George Enescu Festival, anchoring national musical life. On 29 December 1919 leading politicians met here to endorse the union that formed Greater Romania after World War I—a founding moment of the modern state. Public subscription funded construction for decades, a symbol of cultural patriotism. The interior fresco cycle celebrates Romanian history. Listed as a European Heritage Label site, the Athenaeum remains the image tourists associate with cultured Bucharest, tying together architecture, music, and twentieth-century nation-building."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0973, 44.4413] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-national-art",
+        "name": "National Museum of Art (Royal Palace)",
+        "kind": "museum",
+        "description": "The Royal Palace on Revolution Square housed Romania’s kings in successive rebuilds until 1947, when young King Michael’s abdication under Soviet pressure ended the monarchy. The communist state renamed it the Palace of the Republic; since 1950 it has held the National Museum of Art of Romania. Collections span medieval Romanian painting, modern masters, and European works assembled by the royal family. Visiting links art history to political turning points—throne room architecture, wartime damage and reconstruction, and how public memory shifted from monarchy to People’s Republic. Together with the Athenaeum and former Party Central Committee nearby, the square narrates Bucharest’s twentieth century in a few hundred meters. Reserve time for both Romanian galleries and the international rooms."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.095943, 44.439362] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-stavropoleos",
+        "name": "Stavropoleos Monastery",
+        "kind": "monastery",
+        "description": "Founded in 1724 by Greek abbot Ioanichie Stratonikeas, Stavropoleos cloister and church crown Bucharest’s Old Town in Brâncovenesc style—wall paintings, carved stone, and a peaceful courtyard compressed between noisy streets. Dedicated to the Archangels, it was suppressed in the nineteenth century and restored as a nunnery; today it preserves liturgical life and one of Romania’s strongest traditions of Byzantine chant manuscript collecting. Earthquakes and urban growth repeatedly threatened the site, yet successive conservation campaigns saved its carved portal and colonnade. For visitors it is a quiet Orthodox counterpoint to surrounding commerce: candles, choir practice, and architecture recalling Wallachia’s Phanariot era. The monastery proves how spiritual institutions survived empires, communism, and mass tourism side by side."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.10308, 44.43118] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-patriarchal",
+        "name": "Patriarchal Cathedral & Dealul Mitropoliei",
+        "kind": "place_of_worship",
+        "description": "Dealul Mitropoliei (Patriarchate Hill) concentrates Romanian Orthodoxy’s leadership: the Romanian Patriarchate, the Patriarch’s residence, and the sixteenth-century Patriarchal Cathedral—rebuilt and embellished in the 1600s after Wallachian foundations. The complex has witnessed coronations, processions, and debates over church-state relations through monarchy, dictatorship, and democracy. Its elevated site looks over central Bucharest, signaling faith’s persistent role in national identity even as society secularized. Major liturgical feasts still draw crowds into narrow streets. Tourists seeking context for Romania’s painted-monastery country should start here: the hill explains how capital and Church intertwined from medieval princes to today’s Patriarch. Dress respectfully and check service times if you wish to attend."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0954, 44.4236] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-history-museum",
+        "name": "National Museum of Romanian History",
+        "kind": "museum",
+        "description": "Housed in the monumental late-nineteenth-century Postal Services Palace on Calea Victoriei, the National History Museum spans prehistoric archaeology to Romania’s modern era. Its exhibits—treasures from Dacian and Roman sites, medieval documents, union-era regalia, and displays on two world wars—frame how historians narrate continuity and rupture across the Carpathians. Tourist highlights often include precious metalwork and copies of Trajan’s Column scenes evoking imperial Dacia. The building itself, with neoclassical façade and vast halls, reflects Carol I’s ambition to align Bucharest with European capitals. Expect crowds around national holiday rotations. The museum complements art collections at the nearby Royal Palace, giving visitors a chronological skeleton before they wander memorial squares where many of those histories turned violent or hopeful in 1989."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.1032, 44.43215] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-manuc",
+        "name": "Hanul lui Manuc",
+        "kind": "historic",
+        "description": "Completed about 1808 by Armenian merchant Emanuel Mârzayan (Manuc Bey), this inn is Bucharest’s best-known caravanserai: balconies encircling a courtyard where merchants, diplomats, and chroniclers once traded news across the Ottoman-influenced Principalities. It hosted bargaining for the Treaty of Bucharest after the Russo-Turkish War and later theaters, political clubs, and filming locations—layers of public life uncommon in surviving Ottoman-plan inns. Neglect in the late twentieth century nearly doomed it; a 2007 refurbishment reopened restaurants and bars while preserving masonry and timber character. Today Hanul lui Manuc anchors the Old Town’s eastern edge, illustrating how Asia-to-Europe trade routes shaped urban Romania. Order a meal beneath the galleries to feel how pre-industrial Bucharest sounded when horses, not taxis, filled the yard."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.10225, 44.42968] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-universitate",
+        "name": "University Square (Piața Universității)",
+        "kind": "historic",
+        "description": "University Square clusters the University of Bucharest, the National Theatre, hotels, and the underground Universitate metro hub—functional heart of the capital. Politically it is inseparable from 1989, when protests toppled Ceaușescu, and from the 1990 Golaniad sit-in against the new National Salvation Front government, violently dispersed in the June Mineriad when miners were bused to beat demonstrators. Memorial plaques and occasional ceremonies remind passers-by that democracy here was contested street by street. Architecturally the square mixes interwar modernism with socialist additions. For tourists it is a crossroads between Old Town nightlife southward and Calea Victoriei’s palaces northward; pause at the crossing to see students, tram bells, and protest history converge in ordinary commutes."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.10375, 44.43535] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-revolutiei",
+        "name": "Revolution Square (Piața Revoluției)",
+        "kind": "historic",
+        "description": "Until 1989 this space was Palace Square (Piața Palatului); it was renamed for the December revolution that overthrew Ceaușescu after crowds rallied near the Central Committee building where he delivered his infamous balcony speech. Today the former Royal Palace (now art museum), Romanian Athenaeum, Central University Library, Athénée Palace Hotel, Memorial of Rebirth, and ex-Party headquarters frame competing memories: monarchy, interwar glamour, Axis occupation, communist rule, and fragile democracy. The Central Committee edifice later housed Romania’s Senate and Interior Ministry—symbols of how institutions were repurposed rather than erased. Walking the square is the quickest lesson in twentieth-century Bucharest: each façade cues a different regime’s aspirations. Listen for concert rehearsals drifting from the Athenaeum dome at dusk."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0964, 44.44095] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-arcul",
+        "name": "Arcul de Triumf",
+        "kind": "monument",
+        "description": "Petre Antonescu’s triumphal arch on Kiseleff Road commemorates Romania’s World War I victory and the 1922 coronation of King Ferdinand I and Queen Marie as sovereigns of Greater Romania. Earlier wooden and provisional arches stood here for royal entries; the current stone version, finished in 1922 and reworked in the 1930s, uses classical sculpture to celebrate army motifs and national unity. Renovations since 2014 refreshed carvings eroded by pollution. The arch terminates Bucharest’s northward ceremonial boulevard linking the city to airports and diplomatic housing—Romanian answers to Paris or Berlin victory gates. National holiday military parades still pass beneath it. Cyclists and joggers loop nearby Herăstrău Park; combine a photo stop with the village museum inside the same green corridor for a compact northern itinerary."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0777, 44.4672] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-village-museum",
+        "name": "Village Museum (Muzeul Satului – Dimitrie Gusti)",
+        "kind": "museum",
+        "description": "Sociologist Dimitrie Gusti opened this open-air museum in King Michael I Park (Herăstrău) in 1936 to preserve vernacular architecture from across Romania—Banat to Maramureș, Moldavia to Dobrogea. Over a hundred timber churches, houses, mills, and workshops were relocated or faithfully copied, creating a walkable atlas of rural life without leaving Bucharest. The ensemble belongs to Europe’s pioneering wave of folk museums after Stockholm’s Skansen. Exhibitions explain farming implements, textile patterns, and holiday customs that urbanization nearly erased under forced industrialization. Seasonal fairs revive crafts and music. For tourists short on time to drive Transylvania’s villages, the Village Museum is indispensable context: you see why wooden spires, vaulted porches, and painted icons matter in national identity debates today."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.07656, 44.47336] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-antipa",
+        "name": "Grigore Antipa National Museum of Natural History",
+        "kind": "museum",
+        "description": "Founded in 1834 as Bucharest’s natural history museum, the institution took biologist Grigore Antipa’s name in 1933 after his five decades modernizing exhibits. King Carol I inaugurated its purpose-built 1908 home by architect Grigore Cerchez, whose neo-Romanian details reference national style currents. A major 2011 renovation introduced interactive halls showcasing more than two million specimens—from Carpathian fauna to mineralogy—and earned praise for accessibility. Antipa trained generations of Romanian scientists and linked Balkan biodiversity to wider European networks. Families favor dinosaur halls and dioramas; researchers value type collections. Visiting pairs well with the Village Museum nearby for contrasting narratives: nature’s taxonomy versus human folk adaptation across the same national territory. Expect weekend lines; buy tickets online when available."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.08472, 44.45278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-carturesti-carusel",
+        "name": "Cărturești Carusel",
+        "kind": "attraction",
+        "description": "At Lipscani 55 a 2015 restoration transformed the nineteenth-century Chrissoveloni banking palace into Cărturești Carusel, a spiraling white bookstore whose balconies recall a carousel. The retailer Cărturești anchors Romania’s literary retail scene; this flagship marries Instagram-era design with mercantile heritage from the Greek entrepreneurial networks that once dominated the Old Town. Visitors browse fiction and design tomes beneath skylights while cafés occupy upper floors. The project symbolized post-crisis confidence in historic Bucharest after years when Lipscani’s Baroque shells rotted. It stands steps from the National Bank and Princely Court ruins, compressing finance, literature, and tourism into one lane. Come early or late to photograph without crowds; buying a Romanian-English title supports local translators and small presses."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.10245, 44.43095] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-cotroceni",
+        "name": "Cotroceni Palace",
+        "kind": "historic",
+        "description": "Cotroceni began as a monastery founded by Șerban Cantacuzino in 1679 on a wooded height; successive rulers expanded it into a princely then royal residence before it became today’s working Presidential Palace of Romania on Bulevardul Geniului. The site fuses baroque church fabric with late-nineteenth-century palace wings where Carol I and Ferdinand shaped modern Romania. Public tours access the National Cotroceni Museum’s ceremonial suites, religious art, and exhibits on state protocol, when schedules and security allow—always confirm ahead. Decisions that echoed from these rooms range from World War alliances to post-communist NATO integration. The neighborhood bears the same name: diplomats, university clinics, and opera audiences cross paths near quiet villas. Respect perimeter security and photography rules; this is an active seat of government, not only heritage décor."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0635, 44.4372] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-opera",
+        "name": "Romanian National Opera, Bucharest",
+        "kind": "attraction",
+        "description": "Established in 1885, Bucharest’s Romanian National Opera is the senior company among Romania’s four national opera houses, presenting opera and ballet beside the Dâmbovița near Cotroceni. Its repertoire built reputations for Romanian singers abroad while importing Italian and German canonical works. The interwar boom and communist censorship both left marks—glamour undermined by wartime damage, then ideological programming. Since 1989 repertoires diversified again, mixing Verdi staples with Romanian composers like Enescu. Attending a performance links visitors to a public that treats opera as prestige entertainment, not museum culture. Check seasonal casts and subtitles; dress codes relax compared with Vienna but weekend audiences still polish up. Combine with an evening walk toward the Parliament lights across the river for a full cultural night."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.07944444, 44.43583333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-cismigiu",
+        "name": "Cișmigiu Gardens",
+        "kind": "attraction",
+        "description": "Laid out in the nineteenth century around an artificial lake, Cișmigiu is Bucharest’s oldest and largest central public park—about fourteen hectares woven between government quarters and university life. Landscape architect Wilhelm Mayer and others reshaped what had been swampland into alleys, bridges, a chalet, and boating that modeled Western European urban hygiene reforms. During both world wars the park saw refugees and makeshift shelters; literary myth remembers it as lovers’ stroll ground in novels by Caragiale’s successors. Communist-era maintenance waxed and waned; today families row boats, pensioners feed ducks, and students read between lectures. Seasonal flowerbeds and ice skating when winters allow keep it democratic green space in a dense capital. Enter from Regina Elisabeta to link walks toward the Old Town or toward the Palace of Justice quarter."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0936, 44.4367] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-carol-mausoleum",
+        "name": "Carol Park – Mausoleum & Filaret Hill",
+        "kind": "monument",
+        "description": "King Carol I dedicated this French-plan public garden in 1906 for the national Jubilee Exhibition, displaying industrial modernity on Filaret Hill south of the center. Bucharestians later knew the hill for concerts, the Zodiac Fountain, and the Arenelor Romane venue carved into its slope. After 1948 communists renamed it Parcul Libertății and inserted a vast mausoleum honoring party leaders—including a period when Georgi Dimitrov lay in state—altering the park’s celebratory origins. Since 1991 repurposing debates oscillate between demolition, Christian reconsecration, and memorial neutrality; the structure still dominates sightlines. Walking Carol Park sketches Romania’s ideological whiplash: monarchy, fascist interlude, people’s republic kitsch, and uneasy post-socialist memory politics. Sunsets from the ridge frame Parliament’s silhouette to the north, linking two eras’ megaprojects in one panorama."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0932, 44.4142] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-mnac",
+        "name": "National Museum of Contemporary Art (MNAC)",
+        "kind": "museum",
+        "description": "MNAC occupies a glass annex and adapted halls of Nicolae Ceaușescu’s Palace of the Parliament—ironic dialogue between maximalist state architecture and critical contemporary practice. Opened in the 2000s, it collects and exhibits Romanian and international art from the 1960s onward, including experimental works once censored. Curators program performance, video, and architecture critiques that could never have hung in socialist salons. The rooftop terrace grants rare panoramas over Unirii Boulevard’s socialist-realist axis versus Old Town church spires. Exhibitions rotate frequently; check whether wings require separate Parliament security screening. Visiting MNAC after a Parliament tour dramatizes reuse: the same complex now hosts both legislature and avant-garde questions about power. Budget time for the bookstore’s theory titles in Romanian and English."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0872, 44.42675] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bucharest-curtea-veche",
+        "name": "Curtea Veche (Old Princely Court)",
+        "kind": "archaeological_site",
+        "description": "According to tradition, voivode Vlad III (Dracula) ordered a princely compound here in 1459, anchoring Bucharest’s claim to capital status beside Târgoviște. Archaeology since 1953 exposed foundations, cellars, and churches that trace Wallachian rulers’ transitions from wooden courts to masonry power centers. Today Muzeul Municipiului București stages the ruins with signage on trade, justice, and Ottoman suzerainty. The site hugs Lipscani’s commerce—medieval court above merchants’ noise. Its Gothic and Byzantine fragments attract Dracula tourists, yet historians stress realpolitik over vampire myth: Vlad fortified Danube defense and brutal interior order. Combine tickets with neighboring Hanul lui Manuc and Stavropoleos to read princely Bucharest in one block. Ongoing digs mean exhibits occasionally shift; respect barriers around active trenches."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.10285, 44.43015] }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "cityId": "bucharest",
+  "version": "v1",
+  "center": {
+    "lon": 26.1,
+    "lat": 44.43,
+    "zoom": 12
+  },
+  "bounds": {
+    "minLon": 25.95,
+    "minLat": 44.33,
+    "maxLon": 26.25,
+    "maxLat": 44.55
+  },
+  "files": [
+    {
+      "path": "bucharest.pmtiles",
+      "sizeBytes": 17621361
+    },
+    {
+      "path": "curated-pois.geojson",
+      "sizeBytes": 23080
+    }
+  ]
+}

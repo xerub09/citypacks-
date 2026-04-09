@@ -1,27 +1,14 @@
 [
-
-{
-
-"cityId": "bucharest",
-
-"version": "v5",
-
-"name": "Bucharest",
-
-"packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/bucharest-v5"
-
-},
-
-{
-
-"cityId": "paris",
-
-"version": "v1",
-
-"name": "Paris",
-
-"packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/paris-v1"
-
-}
-
+  {
+    "cityId": "bucharest",
+    "version": "v1",
+    "name": "Bucharest",
+    "packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/bucharest-v1"
+  },
+  {
+    "cityId": "paris",
+    "version": "v1",
+    "name": "Paris",
+    "packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/paris-v1"
+  }
 ]
