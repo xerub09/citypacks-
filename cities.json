@@ -4,11 +4,5 @@
     "version": "v1",
     "name": "Bucharest",
     "packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/bucharest-v1"
-  },
-  {
-    "cityId": "paris",
-    "version": "v1",
-    "name": "Paris",
-    "packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/paris-v1"
   }
 ]
