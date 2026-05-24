@@ -1,8 +1,8 @@
 [
   {
-    "cityId": "bucharest",
-    "version": "v1",
+    "id": "bucharest",
     "name": "Bucharest",
-    "packBaseUrl": "https://github.com/xerub09/citypacks-/releases/download/bucharest-v1"
+    "version": "2026_v1",
+    "unifiedPackUrl": "https://pub-3846e5bcb6f64b1d8353cc5fad191edd.r2.dev/Bucharest_2026_v1.citypack"
   }
 ]
